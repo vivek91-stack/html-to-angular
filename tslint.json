@@ -16,7 +16,7 @@
     "import-blacklist": [
       true,
       "rxjs",
-      "rxjs/Rx"
+      "rxassets/js/Rx"
     ],
     "import-spacing": true,
     "indent": [
